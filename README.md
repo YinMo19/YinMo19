@@ -2,9 +2,9 @@
 
 ## Hi there! I'm YinMo19
 
-Previously a student of Automation at HITSZ, but NOT very proficient in the field of automation. 
+Previously a student of Automation, but NOT very proficient in the field of automation. 
 
-Going to pursue a PhD in Microelectronics at HKUST-GZ and might focus on the low level computer systems, ISA architectures, and side-channel issues.
+Now learning MICS in HKUST and might focus on the low level computer systems, ISA architectures, and side-channel issues.
 
 ---
 
