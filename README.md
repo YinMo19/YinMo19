@@ -2,7 +2,7 @@
 
 ## Hi there! I'm YinMo19
 
-Previously a student of Automation, but NOT very proficient in the field of automation. 
+Previously a student of Automation, but NOT very proficient in it. 
 
 Now learning MICS in HKUST and might focus on the low level computer systems, ISA architectures, and side-channel issues.
 
